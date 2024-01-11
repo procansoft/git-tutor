@@ -6,3 +6,6 @@ def my_function():
 
 def add_func():
   return 3+5
+
+def func2():
+  return 2
