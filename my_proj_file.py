@@ -9,3 +9,6 @@ def add_func():
 
 def func1():
   return 1
+
+def func2():
+  return 2
